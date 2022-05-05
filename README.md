@@ -1,6 +1,3 @@
-![cat](https://user-images.githubusercontent.com/68383195/166860425-ae5767bf-2e80-4004-a130-47ce3638be57.gif)
-
-
 #### Statistics:
 [![Stats](https://github-readme-stats.vercel.app/api?username=AnnikaV9&count_private=true&hide_rank=true&hide_title=true&show_icons=true&theme=gruvbox)](https://github.com/AnnikaV9) 
 
