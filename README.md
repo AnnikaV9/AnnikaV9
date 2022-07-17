@@ -1,1 +1,1 @@
-<img src="https://readme-typing-svg.herokuapp.com?duration=1000&color=F78400&center=true&vCenter=true&multiline=true&lines=oOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOo" width="100%">
+<div align="center"><img src="https://github.com/AnnikaV9/AnnikaV9/raw/master/hands.gif" width="50%"></div>
