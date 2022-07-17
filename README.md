@@ -1,1 +1,1 @@
-<img src="https://profile-counter.glitch.me/AnnikaV9/count.svg" width="100%"> <br /> <samp>people have been here</samp>
+<img src="https://readme-typing-svg.herokuapp.com?duration=1000&color=F78400&center=true&vCenter=true&multiline=true&lines=oOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoO" width="100%">
